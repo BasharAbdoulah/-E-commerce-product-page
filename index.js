@@ -136,10 +136,10 @@ addToCart.onclick = function () {
 // Mobile logic
 
 let photos = [
-  "/images/image-product-1.jpg",
-  "/images/image-product-2.jpg",
-  "/images/image-product-3.jpg",
-  "/images/image-product-4.jpg",
+  "/the-new-website/images/image-product-1.jpg",
+  "/the-new-website/images/image-product-2.jpg",
+  "/the-new-website/images/image-product-3.jpg",
+  "/the-new-website/images/image-product-4.jpg",
 ];
 
 let currentImgForMobile = 0;
