@@ -624,7 +624,7 @@ font-size: 30px;
     width: 70%;
     background-color: #fff;
     z-index: 33;
-    transform: translateX(-264px);
+    transform: translateX(-300px);
     transition: 0.4s;
     top: 0;
 }
