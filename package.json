@@ -1,0 +1,19 @@
+{
+  "name": "the-shows-page",
+  "version": "1.0.0",
+  "description": "\"deploing try\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasharAbdoulah/the-new-website.git"
+  },
+  "author": "\"Bashar Abdoulah\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasharAbdoulah/the-new-website/issues"
+  },
+  "homepage": "https://github.com/BasharAbdoulah/the-new-website#readme"
+}
